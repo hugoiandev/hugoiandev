@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com//hugoiandev/)](https://github.com/hugoiandev)
 
 ### Minhas informações aqui no GitHub:
-![Status](https://github-readme-stats.vercel.app/api?username=murilofarias10) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=murilofarias10&layout=compact)](https://github.com/murilofarias10/github-readme-stats)
+![Status](https://github-readme-stats.vercel.app/api?username=hugoiandev) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoiandev&layout=compact)](https://github.com/hugoiandev/github-readme-stats)
 
 <p align="center">
  Quantidade de visitas no meu perfil desde: 07/06/2021 🕵️ <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/hugoian/count.svg" /></p>
+   <img alingn="center" src="https://profile-counter.glitch.me/hugoiandev/count.svg" /></p>
 <p align="center">
 Obrigado e volte sempre 😄
 </p>
