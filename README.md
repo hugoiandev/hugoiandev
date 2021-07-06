@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 ![Status](https://github-readme-stats.vercel.app/api?username=murilofarias10) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=murilofarias10&layout=compact)](https://github.com/murilofarias10/github-readme-stats)
 
 <p align="center">
- Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></p>
+ Quantidade de visitas no meu perfil desde: 07/06/2021 🕵️ <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/murilofarias10/count.svg" /></p>
+   <img alingn="center" src="https://profile-counter.glitch.me/hugoian/count.svg" /></p>
 <p align="center">
 Obrigado e volte sempre 😄
 </p>
