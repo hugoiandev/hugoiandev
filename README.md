@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá, meu nome é: Hugo Ian
-### Sou estudante autodidata de Front-End. 
+### Sou estudante autodidata FullStack. 
 ### Estudando:
 
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
