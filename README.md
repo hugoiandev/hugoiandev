@@ -33,11 +33,3 @@ Here are some ideas to get you started:
 
 ### Minhas informações aqui no GitHub:
 ![Status](https://github-readme-stats.vercel.app/api?username=hugoiandev) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoiandev&layout=compact)](https://github.com/hugoiandev/github-readme-stats)
-
-<p align="center">
- Quantidade de visitas no meu perfil desde: 06/07/2021<br></p>
-<p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/hugoiandev/count.svg" /></p>
-<p align="center">
-Obrigado pela visita 😁
-</p>
