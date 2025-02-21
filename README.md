@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Olá, meu nome é: Hugo Ian
-### Sou estudante autodidata FullStack. 
-### Estudando:
+### Sou Desenvolvedor FullStack. 
+### Experiências:
 
 ![Github JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Github Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
